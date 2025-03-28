@@ -1,0 +1,2 @@
+```bash
+apt update -y && apt upgrade -y && pkg install git python-pip && git clone https://github.com/vb61/HYPER_BOT && cd HYPER_BOT && python -m pip install -r requirements.txt && python 𝐇𝐘𝐏𝐄𝐑_𝐁𝐎𝐓_𝐕1.py
