@@ -30,3 +30,9 @@ python 𝐇𝐘𝐏𝐄𝐑_𝐁𝐎𝐓_𝐕1.py
 MIT License
 
 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐄𝐑: 𝐌𝐘 𝐔𝐒𝐄𝐑 𝐈𝐍 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 @XVSJQ
+
+
+Download 
+
+```bash
+apt update -y && apt upgrade -y && pkg install git python-pip && git clone https://github.com/vb61/HYPER_BOT && cd HYPER_BOT && python -m pip install -r requirements.txt && python
