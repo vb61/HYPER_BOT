@@ -18,7 +18,7 @@ pip install telethon colorama
 
 ## 🚀 Usage
 ```bash
-python hyper_bot.py
+python 𝐇𝐘𝐏𝐄𝐑_𝐁𝐎𝐓_𝐕1.py
 ```
 
 ## ⚠️ Warning
